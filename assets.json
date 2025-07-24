@@ -852,7 +852,7 @@
     "symbol": "BDT",
     "decimals": 8,
     "slug": "bangladeshi-taka",
-    "logoUrl": "https://cdn.jsdelivr.net/gh/lindomar-oliveira/binance-data-plus/assets/img/BDT.png",
+    "logoUrl": "",
     "isEtf": false,
     "isFiat": true,
     "delisted": false
@@ -2194,7 +2194,7 @@
     "symbol": "ETF",
     "decimals": 8,
     "slug": null,
-    "logoUrl": "https://cdn.jsdelivr.net/gh/lindomar-oliveira/binance-data-plus/assets/img/ETF.png",
+    "logoUrl": "",
     "isEtf": false,
     "isFiat": false,
     "delisted": false
@@ -4570,7 +4570,7 @@
     "symbol": "PGALA",
     "decimals": 8,
     "slug": "pgala",
-    "logoUrl": "https://cdn.jsdelivr.net/gh/lindomar-oliveira/binance-data-plus/assets/img/PGALA.png",
+    "logoUrl": "",
     "isEtf": false,
     "isFiat": false,
     "delisted": true
