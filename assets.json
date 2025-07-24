@@ -184,7 +184,7 @@
     "logoUrl": "https://cdn.jsdelivr.net/gh/lindomar-oliveira/binance-data-plus/assets/img/AERGO.png",
     "isEtf": false,
     "isFiat": false,
-    "delisted": false
+    "delisted": true
   },
   "AEUR": {
     "cmcId": 28596,
@@ -316,7 +316,7 @@
     "logoUrl": "https://cdn.jsdelivr.net/gh/lindomar-oliveira/binance-data-plus/assets/img/ALPACA.png",
     "isEtf": false,
     "isFiat": false,
-    "delisted": false
+    "delisted": true
   },
   "ALPHA": {
     "cmcId": 7232,
@@ -327,7 +327,7 @@
     "logoUrl": "https://cdn.jsdelivr.net/gh/lindomar-oliveira/binance-data-plus/assets/img/ALPHA.png",
     "isEtf": false,
     "isFiat": false,
-    "delisted": false
+    "delisted": true
   },
   "ALPINE": {
     "cmcId": 18112,
@@ -569,7 +569,7 @@
     "logoUrl": "https://cdn.jsdelivr.net/gh/lindomar-oliveira/binance-data-plus/assets/img/AST.png",
     "isEtf": false,
     "isFiat": false,
-    "delisted": false
+    "delisted": true
   },
   "ASTR": {
     "cmcId": 12885,
@@ -668,7 +668,7 @@
     "logoUrl": "https://cdn.jsdelivr.net/gh/lindomar-oliveira/binance-data-plus/assets/img/AVAOLD.png",
     "isEtf": false,
     "isFiat": false,
-    "delisted": false
+    "delisted": true
   },
   "AVAX": {
     "cmcId": 5805,
@@ -723,7 +723,7 @@
     "logoUrl": "https://cdn.jsdelivr.net/gh/lindomar-oliveira/binance-data-plus/assets/img/BADGER.png",
     "isEtf": false,
     "isFiat": false,
-    "delisted": false
+    "delisted": true
   },
   "BAKE": {
     "cmcId": 7064,
@@ -745,7 +745,7 @@
     "logoUrl": "https://cdn.jsdelivr.net/gh/lindomar-oliveira/binance-data-plus/assets/img/BAL.png",
     "isEtf": false,
     "isFiat": false,
-    "delisted": false
+    "delisted": true
   },
   "BANANA": {
     "cmcId": 28066,
@@ -910,7 +910,7 @@
     "logoUrl": "https://cdn.jsdelivr.net/gh/lindomar-oliveira/binance-data-plus/assets/img/BETA.png",
     "isEtf": false,
     "isFiat": false,
-    "delisted": false
+    "delisted": true
   },
   "BETH": {
     "cmcId": null,
@@ -1196,7 +1196,7 @@
     "logoUrl": "https://cdn.jsdelivr.net/gh/lindomar-oliveira/binance-data-plus/assets/img/BSW.png",
     "isEtf": false,
     "isFiat": false,
-    "delisted": false
+    "delisted": true
   },
   "BTC": {
     "cmcId": 1,
@@ -1284,7 +1284,7 @@
     "logoUrl": "https://cdn.jsdelivr.net/gh/lindomar-oliveira/binance-data-plus/assets/img/BURGER.png",
     "isEtf": false,
     "isFiat": false,
-    "delisted": false
+    "delisted": true
   },
   "BUSD": {
     "cmcId": 4687,
@@ -1548,7 +1548,7 @@
     "logoUrl": "https://cdn.jsdelivr.net/gh/lindomar-oliveira/binance-data-plus/assets/img/COMBO.png",
     "isEtf": false,
     "isFiat": false,
-    "delisted": false
+    "delisted": true
   },
   "COMP": {
     "cmcId": 5692,
@@ -1636,7 +1636,7 @@
     "logoUrl": "https://cdn.jsdelivr.net/gh/lindomar-oliveira/binance-data-plus/assets/img/CREAM.png",
     "isEtf": false,
     "isFiat": false,
-    "delisted": false
+    "delisted": true
   },
   "CRV": {
     "cmcId": 6538,
@@ -2054,7 +2054,7 @@
     "logoUrl": "https://cdn.jsdelivr.net/gh/lindomar-oliveira/binance-data-plus/assets/img/ELF.png",
     "isEtf": false,
     "isFiat": false,
-    "delisted": false
+    "delisted": true
   },
   "ENA": {
     "cmcId": 30171,
@@ -2395,7 +2395,7 @@
     "logoUrl": "https://cdn.jsdelivr.net/gh/lindomar-oliveira/binance-data-plus/assets/img/FIRO.png",
     "isEtf": false,
     "isFiat": false,
-    "delisted": false
+    "delisted": true
   },
   "FIS": {
     "cmcId": 5882,
@@ -2802,7 +2802,7 @@
     "logoUrl": "https://cdn.jsdelivr.net/gh/lindomar-oliveira/binance-data-plus/assets/img/HARD.png",
     "isEtf": false,
     "isFiat": false,
-    "delisted": false
+    "delisted": true
   },
   "HBAR": {
     "cmcId": 4642,
@@ -3363,7 +3363,7 @@
     "logoUrl": "https://cdn.jsdelivr.net/gh/lindomar-oliveira/binance-data-plus/assets/img/KMD.png",
     "isEtf": false,
     "isFiat": false,
-    "delisted": false
+    "delisted": true
   },
   "KNC": {
     "cmcId": 9444,
@@ -3506,7 +3506,7 @@
     "logoUrl": "https://cdn.jsdelivr.net/gh/lindomar-oliveira/binance-data-plus/assets/img/LEVER.png",
     "isEtf": false,
     "isFiat": false,
-    "delisted": false
+    "delisted": true
   },
   "LINA": {
     "cmcId": 7102,
@@ -3517,7 +3517,7 @@
     "logoUrl": "https://cdn.jsdelivr.net/gh/lindomar-oliveira/binance-data-plus/assets/img/LINA.png",
     "isEtf": false,
     "isFiat": false,
-    "delisted": false
+    "delisted": true
   },
   "LINK": {
     "cmcId": 1975,
@@ -3572,7 +3572,7 @@
     "logoUrl": "https://cdn.jsdelivr.net/gh/lindomar-oliveira/binance-data-plus/assets/img/LOOMOLD.png",
     "isEtf": false,
     "isFiat": false,
-    "delisted": false
+    "delisted": true
   },
   "LPT": {
     "cmcId": 3640,
@@ -3649,7 +3649,7 @@
     "logoUrl": "https://cdn.jsdelivr.net/gh/lindomar-oliveira/binance-data-plus/assets/img/LTO.png",
     "isEtf": false,
     "isFiat": false,
-    "delisted": false
+    "delisted": true
   },
   "LUMIA": {
     "cmcId": 33439,
@@ -4166,7 +4166,7 @@
     "logoUrl": "https://cdn.jsdelivr.net/gh/lindomar-oliveira/binance-data-plus/assets/img/NPXS.png",
     "isEtf": false,
     "isFiat": false,
-    "delisted": false
+    "delisted": true
   },
   "NTRN": {
     "cmcId": 26680,
@@ -4188,7 +4188,7 @@
     "logoUrl": "https://cdn.jsdelivr.net/gh/lindomar-oliveira/binance-data-plus/assets/img/NULS.png",
     "isEtf": false,
     "isFiat": false,
-    "delisted": false
+    "delisted": true
   },
   "NVT": {
     "cmcId": 5906,
@@ -4474,7 +4474,7 @@
     "logoUrl": "https://cdn.jsdelivr.net/gh/lindomar-oliveira/binance-data-plus/assets/img/PDA.png",
     "isEtf": false,
     "isFiat": false,
-    "delisted": false
+    "delisted": true
   },
   "PEN": {
     "cmcId": 2822,
@@ -4760,7 +4760,7 @@
     "logoUrl": "https://cdn.jsdelivr.net/gh/lindomar-oliveira/binance-data-plus/assets/img/PROS.png",
     "isEtf": false,
     "isFiat": false,
-    "delisted": false
+    "delisted": true
   },
   "PSG": {
     "cmcId": 5226,
@@ -5376,7 +5376,7 @@
     "logoUrl": "https://cdn.jsdelivr.net/gh/lindomar-oliveira/binance-data-plus/assets/img/SNT.png",
     "isEtf": false,
     "isFiat": false,
-    "delisted": false
+    "delisted": true
   },
   "SNX": {
     "cmcId": 2586,
@@ -5827,7 +5827,7 @@
     "logoUrl": "https://cdn.jsdelivr.net/gh/lindomar-oliveira/binance-data-plus/assets/img/TROY.png",
     "isEtf": false,
     "isFiat": false,
-    "delisted": false
+    "delisted": true
   },
   "TRU": {
     "cmcId": 7725,
@@ -5981,7 +5981,7 @@
     "logoUrl": "https://cdn.jsdelivr.net/gh/lindomar-oliveira/binance-data-plus/assets/img/UFT.png",
     "isEtf": false,
     "isFiat": false,
-    "delisted": false
+    "delisted": true
   },
   "UGX": {
     "cmcId": 3570,
@@ -6212,7 +6212,7 @@
     "logoUrl": "https://cdn.jsdelivr.net/gh/lindomar-oliveira/binance-data-plus/assets/img/VIB.png",
     "isEtf": false,
     "isFiat": false,
-    "delisted": false
+    "delisted": true
   },
   "VIC": {
     "cmcId": 2570,
@@ -6234,7 +6234,7 @@
     "logoUrl": "https://cdn.jsdelivr.net/gh/lindomar-oliveira/binance-data-plus/assets/img/VIDT.png",
     "isEtf": false,
     "isFiat": false,
-    "delisted": false
+    "delisted": true
   },
   "VITE": {
     "cmcId": 2937,
@@ -6410,7 +6410,7 @@
     "logoUrl": "https://cdn.jsdelivr.net/gh/lindomar-oliveira/binance-data-plus/assets/img/WING.png",
     "isEtf": false,
     "isFiat": false,
-    "delisted": false
+    "delisted": true
   },
   "WLD": {
     "cmcId": 13502,
