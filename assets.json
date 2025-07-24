@@ -65,6 +65,17 @@
     "isFiat": false,
     "delisted": false
   },
+  "A": {
+    "cmcId": 36462,
+    "name": "Vaulta",
+    "symbol": "A",
+    "decimals": 8,
+    "slug": "vaulta",
+    "logoUrl": "https://cdn.jsdelivr.net/gh/lindomar-oliveira/binance-data-plus/assets/img/A.png",
+    "isEtf": false,
+    "isFiat": false,
+    "delisted": false
+  },
   "AAVE": {
     "cmcId": 7278,
     "name": "Aave",
@@ -681,6 +692,17 @@
     "isFiat": false,
     "delisted": false
   },
+  "AWE": {
+    "cmcId": 4006,
+    "name": "AWE Network",
+    "symbol": "AWE",
+    "decimals": 8,
+    "slug": "awe-network",
+    "logoUrl": "https://cdn.jsdelivr.net/gh/lindomar-oliveira/binance-data-plus/assets/img/AWE.png",
+    "isEtf": false,
+    "isFiat": false,
+    "delisted": false
+  },
   "AXL": {
     "cmcId": 17799,
     "name": "Axelar",
@@ -712,6 +734,17 @@
     "logoUrl": "https://cdn.jsdelivr.net/gh/lindomar-oliveira/binance-data-plus/assets/img/AZN.png",
     "isEtf": false,
     "isFiat": true,
+    "delisted": false
+  },
+  "BABY": {
+    "cmcId": 32198,
+    "name": "Babylon",
+    "symbol": "BABY",
+    "decimals": 8,
+    "slug": "babylon",
+    "logoUrl": "https://cdn.jsdelivr.net/gh/lindomar-oliveira/binance-data-plus/assets/img/BABY.png",
+    "isEtf": false,
+    "isFiat": false,
     "delisted": false
   },
   "BADGER": {
@@ -754,6 +787,17 @@
     "decimals": 8,
     "slug": "banana-gun",
     "logoUrl": "https://cdn.jsdelivr.net/gh/lindomar-oliveira/binance-data-plus/assets/img/BANANA.png",
+    "isEtf": false,
+    "isFiat": false,
+    "delisted": false
+  },
+  "BANANAS31": {
+    "cmcId": 34118,
+    "name": "Banana For Scale",
+    "symbol": "BANANAS31",
+    "decimals": 8,
+    "slug": "banana-for-scale",
+    "logoUrl": "https://cdn.jsdelivr.net/gh/lindomar-oliveira/binance-data-plus/assets/img/BANANAS31.png",
     "isEtf": false,
     "isFiat": false,
     "delisted": false
@@ -989,6 +1033,17 @@
     "isFiat": false,
     "delisted": false
   },
+  "BIGTIME": {
+    "cmcId": 28230,
+    "name": "Big Time",
+    "symbol": "BIGTIME",
+    "decimals": 8,
+    "slug": "big-time",
+    "logoUrl": "https://cdn.jsdelivr.net/gh/lindomar-oliveira/binance-data-plus/assets/img/BIGTIME.png",
+    "isEtf": false,
+    "isFiat": false,
+    "delisted": false
+  },
   "BIO": {
     "cmcId": 34812,
     "name": "Bio Protocol",
@@ -1187,6 +1242,17 @@
     "isFiat": true,
     "delisted": false
   },
+  "BROCCOLI714": {
+    "cmcId": 35749,
+    "name": "CZ'S Dog (broccoli.ngo)",
+    "symbol": "BROCCOLI714",
+    "decimals": 8,
+    "slug": "broccoli-714",
+    "logoUrl": "https://cdn.jsdelivr.net/gh/lindomar-oliveira/binance-data-plus/assets/img/BROCCOLI714.png",
+    "isEtf": false,
+    "isFiat": false,
+    "delisted": false
+  },
   "BSW": {
     "cmcId": 10746,
     "name": "Biswap",
@@ -1317,6 +1383,17 @@
     "logoUrl": "https://cdn.jsdelivr.net/gh/lindomar-oliveira/binance-data-plus/assets/img/BYN.png",
     "isEtf": false,
     "isFiat": true,
+    "delisted": false
+  },
+  "C": {
+    "cmcId": 37340,
+    "name": "Chainbase",
+    "symbol": "C",
+    "decimals": 8,
+    "slug": "chainbase",
+    "logoUrl": "https://cdn.jsdelivr.net/gh/lindomar-oliveira/binance-data-plus/assets/img/C.png",
+    "isEtf": false,
+    "isFiat": false,
     "delisted": false
   },
   "C98": {
@@ -1913,6 +1990,17 @@
     "isFiat": false,
     "delisted": false
   },
+  "DOOD": {
+    "cmcId": 35747,
+    "name": "Doodles",
+    "symbol": "DOOD",
+    "decimals": 8,
+    "slug": null,
+    "logoUrl": "https://cdn.jsdelivr.net/gh/lindomar-oliveira/binance-data-plus/assets/img/DOOD.png",
+    "isEtf": false,
+    "isFiat": false,
+    "delisted": false
+  },
   "DOP": {
     "cmcId": 3536,
     "name": "Dominican Peso",
@@ -2154,6 +2242,17 @@
     "isEtf": false,
     "isFiat": false,
     "delisted": true
+  },
+  "ERA": {
+    "cmcId": 37374,
+    "name": "Caldera",
+    "symbol": "ERA",
+    "decimals": 8,
+    "slug": "caldera",
+    "logoUrl": "https://cdn.jsdelivr.net/gh/lindomar-oliveira/binance-data-plus/assets/img/ERA.png",
+    "isEtf": false,
+    "isFiat": false,
+    "delisted": false
   },
   "ERN": {
     "cmcId": 8615,
@@ -2782,6 +2881,17 @@
     "isFiat": true,
     "delisted": false
   },
+  "GUN": {
+    "cmcId": 36156,
+    "name": "GUNZ",
+    "symbol": "GUN",
+    "decimals": 8,
+    "slug": "gunz",
+    "logoUrl": "https://cdn.jsdelivr.net/gh/lindomar-oliveira/binance-data-plus/assets/img/GUN.png",
+    "isEtf": false,
+    "isFiat": false,
+    "delisted": false
+  },
   "GYEN": {
     "cmcId": 8771,
     "name": "GYEN",
@@ -2789,6 +2899,17 @@
     "decimals": 8,
     "slug": "gyen",
     "logoUrl": "https://cdn.jsdelivr.net/gh/lindomar-oliveira/binance-data-plus/assets/img/GYEN.png",
+    "isEtf": false,
+    "isFiat": false,
+    "delisted": false
+  },
+  "HAEDAL": {
+    "cmcId": 36369,
+    "name": "Haedal",
+    "symbol": "HAEDAL",
+    "decimals": 8,
+    "slug": "haedal-protocol",
+    "logoUrl": "https://cdn.jsdelivr.net/gh/lindomar-oliveira/binance-data-plus/assets/img/HAEDAL.png",
     "isEtf": false,
     "isFiat": false,
     "delisted": false
@@ -2903,6 +3024,17 @@
     "isFiat": true,
     "delisted": false
   },
+  "HOME": {
+    "cmcId": 36133,
+    "name": "Defi App",
+    "symbol": "HOME",
+    "decimals": 8,
+    "slug": "defi-app",
+    "logoUrl": "https://cdn.jsdelivr.net/gh/lindomar-oliveira/binance-data-plus/assets/img/HOME.png",
+    "isEtf": false,
+    "isFiat": false,
+    "delisted": false
+  },
   "HOOK": {
     "cmcId": 22764,
     "name": "Hooked Protocol",
@@ -2945,6 +3077,28 @@
     "logoUrl": "https://cdn.jsdelivr.net/gh/lindomar-oliveira/binance-data-plus/assets/img/HUF.png",
     "isEtf": false,
     "isFiat": true,
+    "delisted": false
+  },
+  "HUMA": {
+    "cmcId": 36576,
+    "name": "Huma Finance",
+    "symbol": "HUMA",
+    "decimals": 8,
+    "slug": "huma-finance",
+    "logoUrl": "https://cdn.jsdelivr.net/gh/lindomar-oliveira/binance-data-plus/assets/img/HUMA.png",
+    "isEtf": false,
+    "isFiat": false,
+    "delisted": false
+  },
+  "HYPER": {
+    "cmcId": 36281,
+    "name": "Hyperlane",
+    "symbol": "HYPER",
+    "decimals": 8,
+    "slug": "hyperlane",
+    "logoUrl": "https://cdn.jsdelivr.net/gh/lindomar-oliveira/binance-data-plus/assets/img/HYPER.png",
+    "isEtf": false,
+    "isFiat": false,
     "delisted": false
   },
   "ICP": {
@@ -3042,6 +3196,17 @@
     "decimals": 8,
     "slug": "immutable-x",
     "logoUrl": "https://cdn.jsdelivr.net/gh/lindomar-oliveira/binance-data-plus/assets/img/IMX.png",
+    "isEtf": false,
+    "isFiat": false,
+    "delisted": false
+  },
+  "INIT": {
+    "cmcId": 33120,
+    "name": "Initia",
+    "symbol": "INIT",
+    "decimals": 8,
+    "slug": "initia",
+    "logoUrl": "https://cdn.jsdelivr.net/gh/lindomar-oliveira/binance-data-plus/assets/img/INIT.png",
     "isEtf": false,
     "isFiat": false,
     "delisted": false
@@ -3288,6 +3453,17 @@
     "isFiat": false,
     "delisted": false
   },
+  "KERNEL": {
+    "cmcId": 36180,
+    "name": "KernelDAO",
+    "symbol": "KERNEL",
+    "decimals": 8,
+    "slug": "kerneldao",
+    "logoUrl": "https://cdn.jsdelivr.net/gh/lindomar-oliveira/binance-data-plus/assets/img/KERNEL.png",
+    "isEtf": false,
+    "isFiat": false,
+    "delisted": false
+  },
   "KES": {
     "cmcId": 3547,
     "name": "Kenya Shilling",
@@ -3365,6 +3541,17 @@
     "isFiat": false,
     "delisted": true
   },
+  "KMNO": {
+    "cmcId": 30986,
+    "name": "Kamino Finance",
+    "symbol": "KMNO",
+    "decimals": 8,
+    "slug": "kamino-finance",
+    "logoUrl": "https://cdn.jsdelivr.net/gh/lindomar-oliveira/binance-data-plus/assets/img/KMNO.png",
+    "isEtf": false,
+    "isFiat": false,
+    "delisted": false
+  },
   "KNC": {
     "cmcId": 9444,
     "name": "KyberNetwork",
@@ -3440,6 +3627,17 @@
     "logoUrl": "https://cdn.jsdelivr.net/gh/lindomar-oliveira/binance-data-plus/assets/img/KZT.png",
     "isEtf": false,
     "isFiat": true,
+    "delisted": false
+  },
+  "LA": {
+    "cmcId": 36510,
+    "name": "Lagrange",
+    "symbol": "LA",
+    "decimals": 8,
+    "slug": "lagrange",
+    "logoUrl": "https://cdn.jsdelivr.net/gh/lindomar-oliveira/binance-data-plus/assets/img/LA.png",
+    "isEtf": false,
+    "isFiat": false,
     "delisted": false
   },
   "LAK": {
@@ -3981,6 +4179,17 @@
     "isFiat": false,
     "delisted": false
   },
+  "MUBARAK": {
+    "cmcId": 36041,
+    "name": "Mubarak",
+    "symbol": "MUBARAK",
+    "decimals": 8,
+    "slug": "mubarak",
+    "logoUrl": "https://cdn.jsdelivr.net/gh/lindomar-oliveira/binance-data-plus/assets/img/MUBARAK.png",
+    "isEtf": false,
+    "isFiat": false,
+    "delisted": false
+  },
   "MULTI": {
     "cmcId": 17050,
     "name": "Multichain",
@@ -4043,6 +4252,17 @@
     "decimals": 8,
     "slug": "neo",
     "logoUrl": "https://cdn.jsdelivr.net/gh/lindomar-oliveira/binance-data-plus/assets/img/NEO.png",
+    "isEtf": false,
+    "isFiat": false,
+    "delisted": false
+  },
+  "NEWT": {
+    "cmcId": 36861,
+    "name": "Newton Protocol",
+    "symbol": "NEWT",
+    "decimals": 8,
+    "slug": "newton-protocol",
+    "logoUrl": "https://cdn.jsdelivr.net/gh/lindomar-oliveira/binance-data-plus/assets/img/NEWT.png",
     "isEtf": false,
     "isFiat": false,
     "delisted": false
@@ -4201,6 +4421,17 @@
     "isFiat": false,
     "delisted": false
   },
+  "NXPC": {
+    "cmcId": 36044,
+    "name": "Nexpace",
+    "symbol": "NXPC",
+    "decimals": 8,
+    "slug": "maplestory-universe",
+    "logoUrl": "https://cdn.jsdelivr.net/gh/lindomar-oliveira/binance-data-plus/assets/img/NXPC.png",
+    "isEtf": false,
+    "isFiat": false,
+    "delisted": false
+  },
   "NZD": {
     "cmcId": 2802,
     "name": "New Zealand Dollar",
@@ -4298,6 +4529,17 @@
     "logoUrl": "https://cdn.jsdelivr.net/gh/lindomar-oliveira/binance-data-plus/assets/img/OMR.png",
     "isEtf": false,
     "isFiat": true,
+    "delisted": false
+  },
+  "ONDO": {
+    "cmcId": 21159,
+    "name": "Ondo",
+    "symbol": "ONDO",
+    "decimals": 8,
+    "slug": "ondo-finance",
+    "logoUrl": "https://cdn.jsdelivr.net/gh/lindomar-oliveira/binance-data-plus/assets/img/ONDO.png",
+    "isEtf": false,
+    "isFiat": false,
     "delisted": false
   },
   "ONE": {
@@ -4439,6 +4681,17 @@
     "decimals": 8,
     "slug": "parallel-finance",
     "logoUrl": "https://cdn.jsdelivr.net/gh/lindomar-oliveira/binance-data-plus/assets/img/PARA.png",
+    "isEtf": false,
+    "isFiat": false,
+    "delisted": false
+  },
+  "PARTI": {
+    "cmcId": 36102,
+    "name": "Particle Network",
+    "symbol": "PARTI",
+    "decimals": 8,
+    "slug": "particle-network",
+    "logoUrl": "https://cdn.jsdelivr.net/gh/lindomar-oliveira/binance-data-plus/assets/img/PARTI.png",
     "isEtf": false,
     "isFiat": false,
     "delisted": false
@@ -5037,6 +5290,17 @@
     "isFiat": false,
     "delisted": false
   },
+  "RESOLV": {
+    "cmcId": 36713,
+    "name": "Resolv",
+    "symbol": "RESOLV",
+    "decimals": 8,
+    "slug": "resolv",
+    "logoUrl": "https://cdn.jsdelivr.net/gh/lindomar-oliveira/binance-data-plus/assets/img/RESOLV.png",
+    "isEtf": false,
+    "isFiat": false,
+    "delisted": false
+  },
   "REZ": {
     "cmcId": 30843,
     "name": "Renzo",
@@ -5169,6 +5433,17 @@
     "isFiat": true,
     "delisted": false
   },
+  "RWUSD": {
+    "cmcId": null,
+    "name": "RWUSD",
+    "symbol": "RWUSD",
+    "decimals": 8,
+    "slug": null,
+    "logoUrl": "https://cdn.jsdelivr.net/gh/lindomar-oliveira/binance-data-plus/assets/img/RWUSD.png",
+    "isEtf": false,
+    "isFiat": false,
+    "delisted": false
+  },
   "S": {
     "cmcId": 32684,
     "name": "Sonic",
@@ -5187,6 +5462,17 @@
     "decimals": 8,
     "slug": "saga",
     "logoUrl": "https://cdn.jsdelivr.net/gh/lindomar-oliveira/binance-data-plus/assets/img/SAGA.png",
+    "isEtf": false,
+    "isFiat": false,
+    "delisted": false
+  },
+  "SAHARA": {
+    "cmcId": 36671,
+    "name": "Sahara AI",
+    "symbol": "SAHARA",
+    "decimals": 8,
+    "slug": "sahara-ai",
+    "logoUrl": "https://cdn.jsdelivr.net/gh/lindomar-oliveira/binance-data-plus/assets/img/SAHARA.png",
     "isEtf": false,
     "isFiat": false,
     "delisted": false
@@ -5334,6 +5620,17 @@
     "isFiat": false,
     "delisted": false
   },
+  "SIGN": {
+    "cmcId": 35600,
+    "name": "Sign",
+    "symbol": "SIGN",
+    "decimals": 8,
+    "slug": "sign",
+    "logoUrl": "https://cdn.jsdelivr.net/gh/lindomar-oliveira/binance-data-plus/assets/img/SIGN.png",
+    "isEtf": false,
+    "isFiat": false,
+    "delisted": false
+  },
   "SKL": {
     "cmcId": 5691,
     "name": "SKALE Network",
@@ -5343,6 +5640,17 @@
     "logoUrl": "https://cdn.jsdelivr.net/gh/lindomar-oliveira/binance-data-plus/assets/img/SKL.png",
     "isEtf": false,
     "isFiat": false,
+    "delisted": false
+  },
+  "SLE": {
+    "cmcId": null,
+    "name": "Sierra Leone Leone",
+    "symbol": "SLE",
+    "decimals": 8,
+    "slug": null,
+    "logoUrl": "https://cdn.jsdelivr.net/gh/lindomar-oliveira/binance-data-plus/assets/img/SLE.png",
+    "isEtf": false,
+    "isFiat": true,
     "delisted": false
   },
   "SLF": {
@@ -5363,6 +5671,17 @@
     "decimals": 8,
     "slug": "smooth-love-potion",
     "logoUrl": "https://cdn.jsdelivr.net/gh/lindomar-oliveira/binance-data-plus/assets/img/SLP.png",
+    "isEtf": false,
+    "isFiat": false,
+    "delisted": false
+  },
+  "SNS": {
+    "cmcId": 36468,
+    "name": "Solana Name Service",
+    "symbol": "SNS",
+    "decimals": 8,
+    "slug": "sns",
+    "logoUrl": "https://cdn.jsdelivr.net/gh/lindomar-oliveira/binance-data-plus/assets/img/SNS.png",
     "isEtf": false,
     "isFiat": false,
     "delisted": false
@@ -5422,6 +5741,17 @@
     "isFiat": false,
     "delisted": false
   },
+  "SOPH": {
+    "cmcId": 32087,
+    "name": "Sophon",
+    "symbol": "SOPH",
+    "decimals": 8,
+    "slug": "sophon",
+    "logoUrl": "https://cdn.jsdelivr.net/gh/lindomar-oliveira/binance-data-plus/assets/img/SOPH.png",
+    "isEtf": false,
+    "isFiat": false,
+    "delisted": false
+  },
   "SOS": {
     "cmcId": null,
     "name": "Somali Shillings",
@@ -5440,6 +5770,17 @@
     "decimals": 8,
     "slug": "spell-token",
     "logoUrl": "https://cdn.jsdelivr.net/gh/lindomar-oliveira/binance-data-plus/assets/img/SPELL.png",
+    "isEtf": false,
+    "isFiat": false,
+    "delisted": false
+  },
+  "SPK": {
+    "cmcId": 36569,
+    "name": "Spark",
+    "symbol": "SPK",
+    "decimals": 8,
+    "slug": "spark",
+    "logoUrl": "https://cdn.jsdelivr.net/gh/lindomar-oliveira/binance-data-plus/assets/img/SPK.png",
     "isEtf": false,
     "isFiat": false,
     "delisted": false
@@ -5487,6 +5828,17 @@
     "isEtf": false,
     "isFiat": false,
     "delisted": true
+  },
+  "STO": {
+    "cmcId": 32194,
+    "name": "StakeStone",
+    "symbol": "STO",
+    "decimals": 8,
+    "slug": "stakestone",
+    "logoUrl": "https://cdn.jsdelivr.net/gh/lindomar-oliveira/binance-data-plus/assets/img/STO.png",
+    "isEtf": false,
+    "isFiat": false,
+    "delisted": false
   },
   "STORJ": {
     "cmcId": 1772,
@@ -5598,6 +5950,17 @@
     "isFiat": false,
     "delisted": false
   },
+  "SXT": {
+    "cmcId": 36405,
+    "name": "Space and Time",
+    "symbol": "SXT",
+    "decimals": 8,
+    "slug": "space-and-time",
+    "logoUrl": "https://cdn.jsdelivr.net/gh/lindomar-oliveira/binance-data-plus/assets/img/SXT.png",
+    "isEtf": false,
+    "isFiat": false,
+    "delisted": false
+  },
   "SYN": {
     "cmcId": 12147,
     "name": "Synapse",
@@ -5605,6 +5968,17 @@
     "decimals": 8,
     "slug": "synapse-2",
     "logoUrl": "https://cdn.jsdelivr.net/gh/lindomar-oliveira/binance-data-plus/assets/img/SYN.png",
+    "isEtf": false,
+    "isFiat": false,
+    "delisted": false
+  },
+  "SYRUP": {
+    "cmcId": 33824,
+    "name": "Maple Finance",
+    "symbol": "SYRUP",
+    "decimals": 8,
+    "slug": "maple-finance",
+    "logoUrl": "https://cdn.jsdelivr.net/gh/lindomar-oliveira/binance-data-plus/assets/img/SYRUP.png",
     "isEtf": false,
     "isFiat": false,
     "delisted": false
@@ -5928,6 +6302,17 @@
     "isFiat": false,
     "delisted": false
   },
+  "TUT": {
+    "cmcId": 35892,
+    "name": "Tutorial",
+    "symbol": "TUT",
+    "decimals": 8,
+    "slug": "tutorial",
+    "logoUrl": "https://cdn.jsdelivr.net/gh/lindomar-oliveira/binance-data-plus/assets/img/TUT.png",
+    "isEtf": false,
+    "isFiat": false,
+    "delisted": false
+  },
   "TWD": {
     "cmcId": 2811,
     "name": "New Taiwan Dollar",
@@ -6036,6 +6421,17 @@
     "logoUrl": "https://cdn.jsdelivr.net/gh/lindomar-oliveira/binance-data-plus/assets/img/USD.png",
     "isEtf": false,
     "isFiat": true,
+    "delisted": false
+  },
+  "USD1": {
+    "cmcId": 36148,
+    "name": "World Liberty Financial USD",
+    "symbol": "USD1",
+    "decimals": 8,
+    "slug": "usd1",
+    "logoUrl": "https://cdn.jsdelivr.net/gh/lindomar-oliveira/binance-data-plus/assets/img/USD1.png",
+    "isEtf": false,
+    "isFiat": false,
     "delisted": false
   },
   "USDC": {
@@ -6236,6 +6632,17 @@
     "isFiat": false,
     "delisted": true
   },
+  "VIRTUAL": {
+    "cmcId": 29420,
+    "name": "Virtuals Protocol",
+    "symbol": "VIRTUAL",
+    "decimals": 8,
+    "slug": "virtual-protocol",
+    "logoUrl": "https://cdn.jsdelivr.net/gh/lindomar-oliveira/binance-data-plus/assets/img/VIRTUAL.png",
+    "isEtf": false,
+    "isFiat": false,
+    "delisted": false
+  },
   "VITE": {
     "cmcId": 2937,
     "name": "VITE",
@@ -6364,6 +6771,17 @@
     "decimals": 8,
     "slug": "wrapped-bitcoin",
     "logoUrl": "https://cdn.jsdelivr.net/gh/lindomar-oliveira/binance-data-plus/assets/img/WBTC.png",
+    "isEtf": false,
+    "isFiat": false,
+    "delisted": false
+  },
+  "WCT": {
+    "cmcId": 33152,
+    "name": "WalletConnect",
+    "symbol": "WCT",
+    "decimals": 8,
+    "slug": "walletconnect-token",
+    "logoUrl": "https://cdn.jsdelivr.net/gh/lindomar-oliveira/binance-data-plus/assets/img/WCT.png",
     "isEtf": false,
     "isFiat": false,
     "delisted": false
