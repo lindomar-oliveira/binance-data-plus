@@ -76,6 +76,17 @@
     "isFiat": false,
     "delisted": false
   },
+  "A2Z": {
+    "cmcId": 37357,
+    "name": "Arena-Z",
+    "symbol": "A2Z",
+    "decimals": 8,
+    "slug": "arena-z",
+    "logoUrl": "https://cdn.jsdelivr.net/gh/lindomar-oliveira/binance-data-plus/assets/img/A2Z.png",
+    "isEtf": false,
+    "isFiat": false,
+    "delisted": false
+  },
   "AAVE": {
     "cmcId": 7278,
     "name": "Aave",
@@ -6177,6 +6188,17 @@
     "decimals": 8,
     "slug": "tellor",
     "logoUrl": "https://cdn.jsdelivr.net/gh/lindomar-oliveira/binance-data-plus/assets/img/TRB.png",
+    "isEtf": false,
+    "isFiat": false,
+    "delisted": false
+  },
+  "TREE": {
+    "cmcId": 37495,
+    "name": "Treehouse",
+    "symbol": "TREE",
+    "decimals": 8,
+    "slug": "treehouse",
+    "logoUrl": "https://cdn.jsdelivr.net/gh/lindomar-oliveira/binance-data-plus/assets/img/TREE.png",
     "isEtf": false,
     "isFiat": false,
     "delisted": false
