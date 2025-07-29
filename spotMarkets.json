@@ -11661,7 +11661,7 @@
     "quoteAsset": "FDUSD",
     "quoteAssetPrecision": 8,
     "listingDate": "2025-03-04T13:00:00.000Z",
-    "delistingDate": null
+    "delistingDate": "2025-07-25T00:00:00.000Z"
   },
   "GPSTRY": {
     "symbol": "GPSTRY",
@@ -12345,7 +12345,7 @@
     "quoteAsset": "FDUSD",
     "quoteAssetPrecision": 8,
     "listingDate": "2024-12-13T08:00:00.000Z",
-    "delistingDate": null
+    "delistingDate": "2025-07-25T00:00:00.000Z"
   },
   "HIVETRY": {
     "symbol": "HIVETRY",
@@ -14793,7 +14793,7 @@
     "quoteAsset": "BTC",
     "quoteAssetPrecision": 8,
     "listingDate": "2022-01-20T12:00:00.000Z",
-    "delistingDate": null
+    "delistingDate": "2025-07-28T00:00:00.000Z"
   },
   "LOKABUSD": {
     "symbol": "LOKABUSD",
@@ -14811,7 +14811,7 @@
     "quoteAsset": "USDT",
     "quoteAssetPrecision": 8,
     "listingDate": "2022-01-20T12:00:00.000Z",
-    "delistingDate": null
+    "delistingDate": "2025-07-28T00:00:00.000Z"
   },
   "LOOMBNB": {
     "symbol": "LOOMBNB",
