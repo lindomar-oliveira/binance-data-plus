@@ -179,6 +179,15 @@
     "listingDate": "2024-09-16T10:00:00.000Z",
     "delistingDate": null
   },
+  "A2ZUSDT": {
+    "symbol": "A2ZUSDT",
+    "baseAsset": "A2Z",
+    "baseAssetPrecision": 8,
+    "quoteAsset": "USDT",
+    "quoteAssetPrecision": 8,
+    "listingDate": "2025-07-30T00:00:00.000Z",
+    "delistingDate": null
+  },
   "AAVEBKRW": {
     "symbol": "AAVEBKRW",
     "baseAsset": "AAVE",
@@ -7433,6 +7442,15 @@
     "listingDate": "2021-12-23T14:00:00.000Z",
     "delistingDate": "2023-09-08T04:59:59.000Z"
   },
+  "CVXUSDC": {
+    "symbol": "CVXUSDC",
+    "baseAsset": "CVX",
+    "baseAssetPrecision": 8,
+    "quoteAsset": "USDC",
+    "quoteAssetPrecision": 8,
+    "listingDate": "2025-07-29T00:00:00.000Z",
+    "delistingDate": null
+  },
   "CVXUSDT": {
     "symbol": "CVXUSDT",
     "baseAsset": "CVX",
@@ -11023,6 +11041,15 @@
     "quoteAssetPrecision": 8,
     "listingDate": "2017-09-28T04:01:58.000Z",
     "delistingDate": "2024-03-08T02:59:59.000Z"
+  },
+  "FUNUSDC": {
+    "symbol": "FUNUSDC",
+    "baseAsset": "FUN",
+    "baseAssetPrecision": 8,
+    "quoteAsset": "USDC",
+    "quoteAssetPrecision": 8,
+    "listingDate": "2025-07-29T00:00:00.000Z",
+    "delistingDate": null
   },
   "FUNUSDT": {
     "symbol": "FUNUSDT",
@@ -14730,6 +14757,15 @@
     "quoteAsset": "TRY",
     "quoteAssetPrecision": 8,
     "listingDate": "2024-06-20T10:00:00.000Z",
+    "delistingDate": null
+  },
+  "LISTAUSDC": {
+    "symbol": "LISTAUSDC",
+    "baseAsset": "LISTA",
+    "baseAssetPrecision": 8,
+    "quoteAsset": "USDC",
+    "quoteAssetPrecision": 8,
+    "listingDate": "2025-07-29T00:00:00.000Z",
     "delistingDate": null
   },
   "LISTAUSDT": {
@@ -24747,6 +24783,51 @@
     "quoteAsset": "USDT",
     "quoteAssetPrecision": 8,
     "listingDate": "2020-08-29T07:00:00.000Z",
+    "delistingDate": null
+  },
+  "TREEBNB": {
+    "symbol": "TREEBNB",
+    "baseAsset": "TREE",
+    "baseAssetPrecision": 8,
+    "quoteAsset": "BNB",
+    "quoteAssetPrecision": 8,
+    "listingDate": "2025-07-29T00:00:00.000Z",
+    "delistingDate": null
+  },
+  "TREEFDUSD": {
+    "symbol": "TREEFDUSD",
+    "baseAsset": "TREE",
+    "baseAssetPrecision": 8,
+    "quoteAsset": "FDUSD",
+    "quoteAssetPrecision": 8,
+    "listingDate": "2025-07-29T00:00:00.000Z",
+    "delistingDate": null
+  },
+  "TREETRY": {
+    "symbol": "TREETRY",
+    "baseAsset": "TREE",
+    "baseAssetPrecision": 8,
+    "quoteAsset": "TRY",
+    "quoteAssetPrecision": 8,
+    "listingDate": "2025-07-29T00:00:00.000Z",
+    "delistingDate": null
+  },
+  "TREEUSDC": {
+    "symbol": "TREEUSDC",
+    "baseAsset": "TREE",
+    "baseAssetPrecision": 8,
+    "quoteAsset": "USDC",
+    "quoteAssetPrecision": 8,
+    "listingDate": "2025-07-29T00:00:00.000Z",
+    "delistingDate": null
+  },
+  "TREEUSDT": {
+    "symbol": "TREEUSDT",
+    "baseAsset": "TREE",
+    "baseAssetPrecision": 8,
+    "quoteAsset": "USDT",
+    "quoteAssetPrecision": 8,
+    "listingDate": "2025-07-29T00:00:00.000Z",
     "delistingDate": null
   },
   "TRIBEBNB": {
